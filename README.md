@@ -16,11 +16,15 @@ AIFFEL_quest_cr
 .
 .
 └── Exploration
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex07
-        ├── .ipynb
-        └── README.md
+│   ├── Ex01
+.   .
+.   .
+.   .
+│   └── Ex07
+│       ├── .ipynb
+│       └── README.md
+.
+.
+.
+└── GoingDeeper
 ```
