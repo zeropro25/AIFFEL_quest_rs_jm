@@ -1,4 +1,4 @@
-# Aiffel Research 14th Archive 🧙🏻‍♂️
+# Aiffel_quest_rs
 
 ```
 AIFFEL_quest_cr
@@ -8,7 +8,7 @@ AIFFEL_quest_cr
 │   │   └── README.md
 .		.
 .		.
-.		.
+.		. 
 │   └── Quest08
 │       ├── .ipynb
 │       └── README.md
