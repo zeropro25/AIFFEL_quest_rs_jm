@@ -9,7 +9,7 @@ AIFFEL_quest_cr
 .		.
 .		.
 .		. 
-│   └── Quest08
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
 .
@@ -27,11 +27,11 @@ AIFFEL_quest_cr
 .
 .
 └── GoingDeeper
-    ├── GD01
+    ├── GD0102
     .
     .
     .
-    └── GD18
+    └── GD1718
         ├── .ipynb
         └── README.md
 ```
