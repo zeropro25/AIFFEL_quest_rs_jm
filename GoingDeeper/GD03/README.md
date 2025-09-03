@@ -16,6 +16,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         <img width="755" height="475" alt="스크린샷 2025-09-03 165241" src="https://github.com/user-attachments/assets/55e8681b-7746-4337-b712-d8b4d5cb1027" />
+<img width="778" height="502" alt="스크린샷 2025-09-03 165319" src="https://github.com/user-attachments/assets/81e766c6-8fae-4713-9711-797056888e6d" />
 
 - [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -23,7 +24,9 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        
+        <img width="1144" height="317" alt="스크린샷 2025-09-03 165331" src="https://github.com/user-attachments/assets/af6255f6-f210-45e3-a87d-e93a74c5d8a8" />
+<img width="1139" height="689" alt="스크린샷 2025-09-03 165302" src="https://github.com/user-attachments/assets/26338def-473a-4566-980f-54d352f5ff9a" />
+
 - [X]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
